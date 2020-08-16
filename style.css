@@ -53,7 +53,7 @@ body {
   outline: 0;
   border-color: #777;
 }
-.form-control.succcess input {
+.form-control.success input {
   border-color: var(--success-color);
 }
 
